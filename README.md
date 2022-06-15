@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Web Camarada!
-- 👀 I’m interested in develop mobile games
-- 🌱 I’m currently learning Kotlin
+- 👋 Hi, I’m Rafael!
+- 👀 I’m interested in develop mobile applications
+- 🌱 I’m currently learning JavaScript
 - 💞️ I’m looking to collaborate on any project that could help my professional development
 - 📫 You can find me on Discord: Web Camarda#7763
 
